@@ -6,7 +6,7 @@ function Contact() {
       <p>Email: nbhattarai444@gmail.com</p>
       <p>Location: Pokhara, Nepal</p>
 
-      <form>
+      <form action="https://formspree.io/f/mrpbkgyj" method="POST">
         <input type="text" placeholder="Your Name" />
         <br /><br />
 
